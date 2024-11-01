@@ -16,6 +16,8 @@
   subject: "Конфигурационное управление"
 }
 ```
+![image](https://github.com/user-attachments/assets/db0934f2-8207-4b4e-b3c3-c6d546dab649)
+
 
 ### Задача 2
 Реализовать на Dhall приведенный ниже пример в формате JSON. Использовать в реализации свойство программируемости и принцип DRY.
@@ -90,6 +92,8 @@ in  { groups =
     , subject = "Конфигурационное управление"
  }
 ```
+![image](https://github.com/user-attachments/assets/af5af984-6810-4d0b-879b-dcce9118301a)
+
 
 ### Задача 3
 Язык нулей и единиц.
@@ -108,6 +112,7 @@ E = 10 | 100 | 11 | 101101 | 000
 for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'E'))
 ```
+![image](https://github.com/user-attachments/assets/849d4fce-74e5-4914-8069-576a6013b075)
 
 ### Задача 4
 Язык правильно расставленных скобок двух видов.
@@ -126,6 +131,7 @@ E = "()" | "{}" | E E | "(" E ")" | "{" E "}"
 for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'E'))
 ```
+![image](https://github.com/user-attachments/assets/022d72df-bc5e-4bf4-bfba-a3e70358e699)
 
 ### Задача 5
 Язык выражений алгебры логики.
@@ -137,3 +143,4 @@ E = "~" E | E "&" E | E "|" E | "(" E ")" | "x" | "y"
 for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'E'))
 ```
+![image](https://github.com/user-attachments/assets/d0b6be0e-2f42-40eb-90f1-b34644b5b321)
