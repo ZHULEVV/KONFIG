@@ -121,6 +121,7 @@ python config_parser.py input2.txt output2.yaml
 ```bash
 python -m unittest tests.py
 ```
+![image](https://github.com/user-attachments/assets/3cb979cf-c149-4ef2-85fd-ded52d7f9523)
 
 # Заключение 
 Этот инструмент предоставляет удобный способ трансляции конфигураций из учебного конфигурационного языка в формат YAML, поддерживая все основные конструкции и обеспечивая надежную обработку ошибок.
