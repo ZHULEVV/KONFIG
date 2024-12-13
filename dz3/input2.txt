@@ -1,0 +1,25 @@
+﻿
+def timezone = "UTC+3";
+def defaultTemperature = 22;
+
+begin
+    location := "Living Room";
+    devices := #( "Thermostat", "Light", "Camera" );
+    thermostat := begin
+        targetTemperature := ![defaultTemperature];
+        mode := "Auto";
+    end;
+    light := begin
+        intensity := 75;
+        color := "Warm White";
+        schedule := #( "18:00-23:00", "06:00-08:00" );
+    end;
+    camera := begin
+        enabled := true;
+        recording := "Motion Detection";
+        storage := "Cloud";
+    end
+end
+
+
+#( "Living Room", "Bedroom", "Kitchen", "Garage" )

@@ -1,0 +1,13 @@
+- documentRoot: /var/www/html
+  firewall: true
+  host: example.com
+  port: 443
+  security: {}
+  server: nginx
+  ssl: true
+  sslCertificate: /etc/ssl/certs/server.crt
+  sslKey: /etc/ssl/private/server.key
+- accessLog: /var/log/nginx/access.log
+  errorLog: /var/log/nginx/error.log
+  logLevel: warn
+  logging: {}

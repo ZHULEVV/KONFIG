@@ -1,0 +1,18 @@
+- devices:
+  - Thermostat
+  - Light
+  - Camera
+  location: Living Room
+  mode: Auto
+  targetTemperature: 22
+  thermostat: {}
+- color: Warm White
+  intensity: 75
+  light: {}
+  schedule:
+  - 18:00-23:00
+  - 06:00-08:00
+- camera: {}
+  enabled: true
+  recording: Motion Detection
+  storage: Cloud

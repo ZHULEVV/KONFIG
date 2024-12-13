@@ -1,0 +1,21 @@
+﻿
+def serverPort = 443;
+def serverHost = "example.com";
+
+begin
+    server := "nginx";
+    port := ![serverPort];
+    host := ![serverHost];
+    documentRoot := "/var/www/html";
+    security := begin
+        ssl := true;
+        sslCertificate := "/etc/ssl/certs/server.crt";
+        sslKey := "/etc/ssl/private/server.key";
+        firewall := true;
+    end;
+    logging := begin
+        accessLog := "/var/log/nginx/access.log";
+        errorLog := "/var/log/nginx/error.log";
+        logLevel := "warn";
+    end
+end
