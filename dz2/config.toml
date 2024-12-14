@@ -1,0 +1,5 @@
+graphviz_path = "/usr/bin"
+package_name = "matplotlib"
+output_path = "matplotlib.dot"
+max_depth = 3
+repository_url = "https://pypi.org"
