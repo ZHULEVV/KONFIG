@@ -1,3 +1,0 @@
-This is file2.txt inside dir2.
-It can contain another message or data.
-You can experiment with different content.
