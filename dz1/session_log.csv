@@ -1,0 +1,1118 @@
+admin,python -m unittest test_commands.py
+admin,python -m unittest test_commands.py
+admin,test_commands.py
+admin,test_commands.py
+admin,exit
+admin,python -m unittest test_commands.py
+admin,test_commands.py
+admin,python shell_emulator.py
+admin,ls
+admin,clear
+admin,cat file1.txt
+admin,cat file1.txt
+admin,python3 shell_emulator.py
+admin,cat file1.txt
+admin,cat dir1/file1.txt
+admin,clear
+admin,cat dir2/file2.txt
+admin,clear
+admin,cls
+admin,cls
+admin,cat dir1/file1.txt
+admin,cat dir2/file2.txt
+admin,clear
+admin,cat dir2/file2.txt
+admin,clear
+admin,cd ..
+admin,exit
+admin,ls
+admin,cd dir1
+admin,"cd(""dir1"", ""/"")"
+admin,"""cd dir1"
+admin,"""cd dir1"""
+admin,"command = ""cd dir1"""
+admin,ls
+admin,cd dir1
+admin,cd 'dir1'
+admin,pwd
+admin,cd virtual_files.zip
+admin,cd file1
+admin,cd ..
+admin,cd/
+admin,cd //
+admin,cd dir1
+admin,cat file1
+admin,cat dile1.txt
+admin,cat file1.txt
+admin,ls -1
+admin,ls -a
+admin,ls
+admin,cd //
+admin,ls -1
+admin,ls dir1
+admin,ls <dir1>
+admin,ls <file1.txt>
+admin,ls file1
+admin,ls file1.txt
+admin,ls -1
+admin,exit
+admin,ls -1
+admin,ls
+admin,exit
+admin,
+admin,ls
+admin,ls -1
+admin,cd //
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,ls dir1
+admin,exit
+admin,ls
+admin,vfs
+admin,ls dir 1
+admin,ls dir1
+admin,clear
+admin,exit
+admin,clear
+admin,ls
+admin,dir1
+admin,ls dir1
+admin,/dir1
+admin,ls /dir1
+admin,ls
+admin,cd //
+admin,clear
+admin,cd dir1
+admin,cd file.txt
+admin,cat file1.txt
+admin,cd dir2
+admin,exit
+admin,cd dir1
+admin,cd //
+admin,cd dir2
+admin,cat file2.txt
+admin,cd //
+admin,cat file1.txt
+admin,clear
+admin,ls
+admin,cd //
+admin,clear
+admin,cd dir1
+admin,cat file1.txt
+admin,ls
+admin,cd //
+admin,cd ..
+admin,cd dir1
+admin,cat file1.txt
+admin,cd ..
+admin,cd dir2
+admin,cat file2.txt
+admin,cd ..
+admin,clear
+admin,ls
+admin,cd dir1
+admin,cd ..
+admin,cd //
+admin,cd dir1
+admin,ls
+admin,cd ..
+admin,cd //
+admin,ls
+admin,cat file1.txt
+admin,strip
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls dir1
+admin,ls
+admin,exit
+admin,ls
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cd file1.txt
+admin,cd /dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,ls
+admin,cd file1.txt
+admin,cat file1.txt
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,"print(f""Looking for file at: {file_path}"")"
+admin,cd ..
+admin,"print(f""Looking for file at: {file_path}"")"
+admin,exit
+admin,cat file1.txt
+admin,cd dir1
+admin,cat file1.txt
+admin,exit
+admin,ls
+admin,exit
+admin,ls
+admin,self
+admin,exit
+admin,ls
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cd dir2
+admin,cd dir3
+admin,cd dir4
+admin,cd
+admin,cd //
+admin,cd ..
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,exit
+admin,ls
+admin,cd file1.txt
+admin,cd dir1
+admin,cd file1.txt
+admin,"cd ""dir1"""
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,cd ..
+admin,cat file2.txt
+admin,cd dir2
+admin,cat file2.txt
+admin,cd ..
+admin,cd dir3
+admin,cat file3.txt
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,exit
+admin,exit
+admin,ls
+admin,exit
+admin,ls
+admin,exit
+admin,ls
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,cd ..
+admin,cd
+admin,clear
+admin,ls
+admin,cd dir2
+admin,ls
+admin,cat file2.txt
+admin,cd
+admin,cd dir3
+admin,;s
+admin,ls
+admin,cat file3.txt
+admin,cd ..
+admin,cd
+admin,exit
+admin,ls
+admin,exit
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,cd ..
+admin,cd..
+admin,cd //
+admin,cd ./
+admin,cd/.
+admin,cd /.
+admin,cd
+admin,cd ..
+admin,cd dir2
+admin,cd ./
+admin,cd
+admin,cd ..
+admin,cd /
+admin,cd dir2
+admin,cat file2.txt
+admin,cd /
+admin,cd dir3
+admin,cat file3.txt
+admin,clear
+admin,ls
+admin,cd dir1
+admin,cat file1.txt
+admin,cd
+admin,ls
+admin,cd..
+admin,cd ..
+admin,cd /
+admin,cd di2
+admin,cd dir2
+admin,ls
+admin,cat file2.txt
+admin,cd /
+admin,clear
+admin,cd ..
+admin,ls
+admin,cd /
+admin,ls
+admin,cd ..
+admin,ls
+admin,cd ./
+admin,cd /.
+admin,ls
+admin,exit
+admin,ls,2024-11-19 18:52:27.669852
+admin,ls,2024-11-19 18:54:57.305134
+admin,ls,2024-11-19 18:55:33.440526
+admin,ls,2024-11-19 18:56:34.312789
+admin,exit,2024-11-19 18:57:51.360512
+admin,ls
+admin,cd dir1
+admin,cd
+admin,cd ..
+admin,ls
+admin,cd
+admin,cd ./
+admin,cd /.
+admin,ls
+admin,dir1
+admin,cd dir
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,exit
+admin,ls
+admin,clear
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd /.
+admin,ls
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd ./
+admin,ls
+admin,cd
+admin,cd /.
+admin,;s
+admin,ls
+admin,"C:\annaconda\python.exe ""C:/Program Files/JetBrains/PyCharm Community Edition 2024.3/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py"" --path C:\Users\ПК\emulator-shell-os\src\test_commands.py"
+admin,Testing started at 20:17 ...
+admin,Launching pytest with arguments C:\Users\ПК\emulator-shell-os\src\test_commands.py --no-header --no-summary -q in C:\Users\ПК\emulator-shell-os\src
+admin,
+admin,============================= test session starts =============================
+admin,collecting ... collected 4 items
+admin,
+admin,test_commands.py::TestCommandExecutor::test_cat FAILED                   [ 25%]
+admin,test_commands.py:26 (TestCommandExecutor.test_cat)
+admin,self = <test_commands.TestCommandExecutor testMethod=test_cat>
+admin,mock_stdout = <_io.StringIO object at 0x0000026B1E1C4790>
+admin,
+admin,"@patch('sys.stdout', new_callable=StringIO)"
+admin,"def test_cat(self, mock_stdout):"
+admin,"""""""Тестируем команду cat, чтобы она выводила содержимое файла."""""""
+admin,"executor = CommandExecutor(""test_vfs"", ""/dir1"")"
+admin,"executor.cat(""file1.txt"")"
+admin,output = mock_stdout.getvalue()
+admin,">       self.assertIn(""Hello, World!"", output)  # Проверяем, что содержимое file1.txt отображается"
+admin,"E       AssertionError: 'Hello, World!' not found in ""Trying to open file at: test_vfs\\dir1\\file1.txt\nError: File 'file1.txt' does not exist.\n"""
+admin,
+admin,test_commands.py:33: AssertionError
+admin,
+admin,test_commands.py::TestCommandExecutor::test_cd FAILED                    [ 50%]
+admin,test_commands.py:17 (TestCommandExecutor.test_cd)
+admin,self = <test_commands.TestCommandExecutor testMethod=test_cd>
+admin,mock_stdout = <_io.StringIO object at 0x0000026B1E1C48B0>
+admin,
+admin,"@patch('sys.stdout', new_callable=StringIO)"
+admin,"def test_cd(self, mock_stdout):"
+admin,"""""""Тестируем команду cd, чтобы она меняла текущую директорию."""""""
+admin,"executor = CommandExecutor(""test_vfs"", ""/"")"
+admin,"executor.cd(""dir1"")"
+admin,output = mock_stdout.getvalue()
+admin,"self.assertIn(""Current directory:"", output)  # Проверяем, что путь изменился"
+admin,">       self.assertIn(""/dir1"", output)  # Проверяем, что путь включает dir1"
+admin,E       AssertionError: '/dir1' not found in 'Current directory: C:\\Users\\ПК\\emulator-shell-os\\src\\\\dir1\n'
+admin,
+admin,test_commands.py:25: AssertionError
+admin,
+admin,test_commands.py::TestCommandExecutor::test_cd_to_root FAILED            [ 75%]
+admin,test_commands.py:34 (TestCommandExecutor.test_cd_to_root)
+admin,self = <test_commands.TestCommandExecutor testMethod=test_cd_to_root>
+admin,mock_stdout = <_io.StringIO object at 0x0000026B1E1C4940>
+admin,
+admin,"@patch('sys.stdout', new_callable=StringIO)"
+admin,"def test_cd_to_root(self, mock_stdout):"
+admin,"""""""Тестируем команду cd, чтобы вернуться в корневую директорию."""""""
+admin,"executor = CommandExecutor(""test_vfs"", ""/dir1"")"
+admin,"executor.cd(""/"")  # Переход в корень"
+admin,output = mock_stdout.getvalue()
+admin,">       self.assertIn(""Current directory: /"", output)  # Проверяем, что возвращаемся в корень"
+admin,E       AssertionError: 'Current directory: /' not found in 'Current directory: C:\\Users\\ПК\\emulator-shell-os\\src\\\n'
+admin,
+admin,test_commands.py:41: AssertionError
+admin,
+admin,test_commands.py::TestCommandExecutor::test_ls PASSED                    [100%]
+admin,
+admin,"========================= 3 failed, 1 passed in 0.07s ========================="
+admin,
+admin,Process finished with exit code 1
+admin,ls
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd
+admin,cd..
+admin,cd //
+admin,ls
+admin,cd ./
+admin,ls
+admin,cd ./
+admin,ls
+admin,ls
+admin,cd dir1
+admin,cd..
+admin,cd//
+admin,cd./
+admin,cd/.
+admin,cd //
+admin,ls
+admin,cd ./
+admin,cd \.
+admin,cd \
+admin,clear
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd /
+admin,ls
+admin,cd dir2
+admin,ls
+admin,cat file1.txt
+admin,cat file2.txt
+admin,cd /
+admin,ls
+admin,cd ..
+admin,ls
+admin,cd /
+admin,cd dir1
+admin,cd ..
+admin,;s
+admin,ls
+admin,exit
+admin,ls
+admin,cd ..
+admin,ls,2024-11-19 21:11:54.398288
+admin,cd dir1,2024-11-19 21:11:57.681121
+admin,ls,2024-11-19 21:12:01.114863
+admin,cat file1.txt,2024-11-19 21:12:07.719283
+admin,cd ..,2024-11-19 21:12:12.737883
+admin,ls,2024-11-19 21:12:14.506988
+admin,cd ..,2024-11-19 21:12:17.193477
+admin,ls,2024-11-19 21:12:19.264135
+admin,exit,2024-11-19 21:12:37.477355
+admin,cd ..
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,exit
+admin,ls
+admin,cd dir1
+admin,ls
+admin,exit
+admin,ls
+admin,import os
+admin,from pathlib import Path
+admin,
+admin,class CommandExecutor:
+admin,"def __init__(self, vfs_root, current_dir):"
+admin,"""""""Инициализация исполнителя команд."""""""
+admin,self.vfs_root = Path(vfs_root)  # Корень виртуальной файловой системы
+admin,self.current_dir = Path(current_dir).resolve()  # Текущая директория как Path
+admin,
+admin,"def execute(self, command):"
+admin,"""""""Выполнение команды."""""""
+admin,"if command.startswith(""ls""):"
+admin,return self.ls()
+admin,"elif command.startswith(""cd""):"
+admin,"new_dir = command.split("" "", 1)[1] if "" "" in command else """""
+admin,self.cd(new_dir)
+admin,return None  # Изменение директории не требует вывода
+admin,"elif command.startswith(""cat""):"
+admin,"file_name = command.split("" "", 1)[1] if "" "" in command else """""
+admin,return self.cat(file_name)
+admin,"elif command == ""clear"":"
+admin,self.clear()
+admin,else:
+admin,"return f""Unknown command: {command}"""
+admin,
+admin,def ls(self):
+admin,"""""""Вывод содержимого текущей директории."""""""
+admin,try:
+admin,# Нормализуем текущую директорию с помощью Path
+admin,current_dir = self.current_dir / self.current_dir.name
+admin,contents = []
+admin,
+admin,if not current_dir.exists() or not current_dir.is_dir():
+admin,"print(f""Error: Directory '{self.current_dir}' does not exist."")"
+admin,return
+admin,
+admin,# Получаем все элементы директории
+admin,for item in current_dir.iterdir():
+admin,if item.is_dir():
+admin,"contents.append(f""[Dir] {item.name}"")"
+admin,elif item.is_file():
+admin,"contents.append(f""{item.name}"")"
+admin,
+admin,# Печатаем содержимое
+admin,if contents:
+admin,"print(""\n"".join(contents))"
+admin,else:
+admin,"print(f""No files or directories in '{self.current_dir}'."")"
+admin,except Exception as e:
+admin,"print(f""Error accessing directory contents: {e}"")"
+admin,
+admin,"def cd(self, new_dir):"
+admin,"""""""Изменение текущей директории."""""""
+admin,if not new_dir:
+admin,"print(""Error: No directory specified."")"
+admin,return
+admin,
+admin,"if new_dir == "".."":"
+admin,if self.current_dir == self.vfs_root:
+admin,"print(""You are already at the root directory."")"
+admin,return
+admin,else:
+admin,# Переход на один уровень вверх
+admin,self.current_dir = self.current_dir.parent
+admin,"print(f""Current directory: {self.current_dir}"")"
+admin,return
+admin,
+admin,# Абсолютный или относительный путь
+admin,"target_dir = self.vfs_root / new_dir.lstrip(""/"")"
+admin,
+admin,# Нормализуем путь
+admin,target_dir = target_dir.resolve()
+admin,
+admin,if not target_dir.exists() or not target_dir.is_dir():
+admin,"print(f""Error: Directory '{new_dir}' does not exist."")"
+admin,else:
+admin,self.current_dir = target_dir
+admin,"print(f""Current directory: {self.current_dir}"")"
+admin,
+admin,"def cat(self, file_name):"
+admin,"""""""Вывод содержимого файла."""""""
+admin,if not file_name:  # Если имя файла не указано
+admin,"return ""Error: No file name provided."""
+admin,
+admin,file_path = self.vfs_root / self.current_dir / file_name  # Строим путь к файлу
+admin,
+admin,# Проверка существования файла
+admin,if not file_path.exists() or not file_path.is_file():
+admin,"return f""Error: File '{file_name}' does not exist."""
+admin,
+admin,# Чтение и возврат содержимого файла
+admin,try:
+admin,"with open(file_path, ""r"") as file:"
+admin,return file.read()  # Возвращаем содержимое файла
+admin,except Exception as e:
+admin,"return f""Error reading file '{file_name}': {e}"""
+admin,
+admin,def clear(self):
+admin,"""""""Очистка экрана."""""""
+admin,"os.system(""cls"" if os.name == ""nt"" else ""clear"")"
+admin,exit
+admin,ls
+admin,cat dir1
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd ..
+admin,cd /
+admin,ls
+admin,cd ..
+admin,cd dir3
+admin,ls
+admin,cat file3.txt
+admin,clear
+admin,exit
+admin,ls
+admin,ls
+admin,cd ..
+admin,cd /
+admin,cd \
+admin,ls
+admin,exit
+admin,ls
+admin,cd
+admin,cd .
+admin,cd /
+admin,cd/
+admin,cd..
+admin,cd..
+admin,cd ..
+admin,cd \\
+admin,cd //
+admin,ls
+admin,exit
+admin,ls
+admin,cd
+admin,cd..
+admin,cd //
+admin,cd /
+admin,cd/
+admin,cd/.
+admin,cd /.
+admin,ls
+admin,//
+admin,..
+admin,cd ..
+admin,..
+admin,ls
+admin,lf
+admin,lg
+admin,lr
+admin,ls
+admin,cd
+admin,cd
+admin,cd /
+admin,cd .
+admin,cd ..
+admin,cd dir1
+admin,ls
+admin,lg
+admin,ls
+admin,cd ..
+admin,cd dir1
+admin,cd //
+admin,cd ..
+admin,ls
+admin,find dir1
+admin,cat file1
+admin,cat file1.txt
+admin,cd dir1
+admin,cat file1.txt
+admin,cler
+admin,clear
+admin,exit
+admin,
+admin,cd./
+admin,cd/.
+admin,cd /.
+admin,ls
+admin,ls
+admin,cd /
+admin,cd/
+admin,cd /.
+admin,ls
+admin,cd
+admin,cd
+admin,cd ..
+admin,cd /'
+admin,cd '/.
+admin,cd ../
+admin,ls
+admin,cd ..
+admin,ls
+admin,cd dir1
+admin,cat file1.tx
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,ls
+admin,cd ./././
+admin,ls
+admin,cd dir2
+admin,ls
+admin,cat file2.txt
+admin,cd ../
+admin,ls
+admin,cd dir3
+admin,ls
+admin,cat file3.txt
+admin,cd ..
+admin,cd ...
+admin,ls
+admin,clear dir3/
+admin,clear dir3
+admin,clear
+admin,ls
+admin,cd ..//...//
+admin,cd ///
+admin,cd /
+admin,cd ..//.
+admin,cd ././
+admin,ls
+admin,cd ...
+admin,cd .
+admin,cd.
+admin,cd ..
+admin,cd ..
+admin,clear
+admin,ls
+admin,cd ./././.
+admin,ls
+admin,cd /././.
+admin,ls
+admin,cd ;
+admin,cd ././
+admin,cd //
+admin,cd//
+admin,cd ../
+admin,\
+admin,ls
+admin,
+admin,
+admin,ls
+admin,lsa
+admin,lasdasdads
+admin,lsasdasdasd
+admin,cd..
+admin,cd ..
+admin,cd ..
+admin,cd ///
+admin,cd /././.
+admin,cd /././././.
+admin,ls
+admin,cdasdasdas //
+admin,cdasdasdasd ..
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cd ..
+admin,cat dir1
+admin,cd dir1
+admin,cat file1.txt
+admin,clear
+admin,exit
+admin,lsa
+admin,lsa
+admin,exit
+admin,lsa
+admin,cd dir1
+admin,cd1sdsadsad
+admin,cdasfdsfdsgsda
+admin,cdfgrgdsf
+admin,"cd .,.,.,"
+admin,cd..
+admin,cd ..
+admin,exit
+admin,ks
+admin,лы
+admin,ks
+admin,ls
+admin,lsa
+admin,lsdsfds
+admin,lsfdgfdgdsf
+admin,lsdadsada
+admin,dldasfafa
+admin,cdlkfdfsakd
+admin,cd .//dlsadaksd
+admin,cd ./././
+admin,cd ;aldasd
+admin,clear
+admin,cd dir1
+admin,cat file1.txt
+admin,cd.....
+admin,cd ..
+admin,cd ....
+admin,ls
+admin,import os
+admin,
+admin,class CommandExecutor:
+admin,"def __init__(self, vfs_root, current_dir):"
+admin,"""""""Инициализация исполнителя команд."""""""
+admin,self.vfs_root = vfs_root  # Корень виртуальной файловой системы
+admin,self.current_dir = current_dir  # Текущая директория
+admin,
+admin,"def execute(self, command):"
+admin,"""""""Выполнение команды."""""""
+admin,parts = command.split(maxsplit=1)
+admin,cmd = parts[0]  # Получаем первую часть команды
+admin,"arg = parts[1] if len(parts) > 1 else """"  # Получаем аргумент, если есть"
+admin,
+admin,"if cmd == ""ls"":"
+admin,return self.ls()
+admin,"elif cmd == ""cd"":"
+admin,self.cd(arg)
+admin,return None  # Изменение директории не требует вывода
+admin,"elif cmd == ""cat"":"
+admin,return self.cat(arg)
+admin,"elif cmd == ""clear"":"
+admin,self.clear()
+admin,else:
+admin,"return f""Error: Unknown command '{command}'"""
+admin,
+admin,def ls(self):
+admin,"""""""Вывод содержимого текущей директории."""""""
+admin,try:
+admin,# Нормализуем текущую директорию
+admin,"current_dir = os.path.normpath(self.current_dir.strip('/')) or ""/"""
+admin,contents = []
+admin,
+admin,# Формируем полный путь
+admin,"path = os.path.join(self.vfs_root, current_dir)"
+admin,
+admin,if not os.path.exists(path) or not os.path.isdir(path):
+admin,"return f""Error: Directory '{current_dir}' does not exist."""
+admin,
+admin,# Получаем все элементы директории
+admin,for item in os.listdir(path):
+admin,"item_path = os.path.join(path, item)"
+admin,if os.path.isdir(item_path):
+admin,"contents.append(f""[Dir] {item}"")"
+admin,elif os.path.isfile(item_path):
+admin,contents.append(item)
+admin,
+admin,# Печатаем содержимое
+admin,"return ""\n"".join(contents) if contents else f""No files or directories in '{current_dir}'."""
+admin,except Exception as e:
+admin,"return f""Error accessing directory contents: {e}"""
+admin,
+admin,"def cd(self, new_dir):"
+admin,"""""""Изменение текущей директории."""""""
+admin,if not new_dir:
+admin,"print(""Error: No directory specified."")"
+admin,return
+admin,
+admin,# Запрещаем использовать недопустимые пути
+admin,"if ""//"" in new_dir or ""./."" in new_dir:"
+admin,"print(""Error: Invalid directory path."")"
+admin,return
+admin,
+admin,# Переход на уровень выше
+admin,"if new_dir == "".."":"
+admin,"if self.current_dir == ""/"":"
+admin,"print(""You are already at the root directory."")"
+admin,else:
+admin,"self.current_dir = os.path.dirname(self.current_dir.strip(""/""))"
+admin,"self.current_dir = ""/"" + self.current_dir if self.current_dir else ""/"""
+admin,"print(f""Current directory: {self.current_dir}"")"
+admin,return
+admin,
+admin,# Переход в текущую директорию (cd .)
+admin,"if new_dir == ""."":"
+admin,"print(""Error: Already in the current directory."")"
+admin,return
+admin,
+admin,# Абсолютный или относительный путь
+admin,"if new_dir.startswith(""/""):"
+admin,"target_dir = os.path.join(self.vfs_root, new_dir.lstrip(""/""))"
+admin,else:
+admin,"target_dir = os.path.join(self.vfs_root, self.current_dir.strip(""/""), new_dir)"
+admin,
+admin,# Нормализуем путь
+admin,target_dir = os.path.normpath(target_dir)
+admin,
+admin,# Проверка существования директории
+admin,if not os.path.exists(target_dir) or not os.path.isdir(target_dir):
+admin,"print(f""Error: Directory '{new_dir}' does not exist."")"
+admin,else:
+admin,"self.current_dir = os.path.relpath(target_dir, self.vfs_root)"
+admin,"if not self.current_dir.startswith(""/""):"
+admin,"self.current_dir = ""/"" + self.current_dir"
+admin,"print(f""Current directory: {self.current_dir}"")"
+admin,
+admin,"def cat(self, file_name):"
+admin,"""""""Вывод содержимого файла."""""""
+admin,if not file_name:  # Если имя файла не указано
+admin,"return ""Error: No file name provided."""
+admin,
+admin,# Строим путь к файлу
+admin,"file_path = os.path.join(self.vfs_root, self.current_dir.strip(""/""), file_name)"
+admin,
+admin,# Проверка существования файла
+admin,if not os.path.exists(file_path) or not os.path.isfile(file_path):
+admin,"return f""Error: File '{file_name}' does not exist."""
+admin,
+admin,# Чтение и возврат содержимого файла
+admin,try:
+admin,"with open(file_path, ""r"") as file:"
+admin,return file.read()  # Возвращаем содержимое файла
+admin,except Exception as e:
+admin,"return f""Error reading file '{file_name}': {e}"""
+admin,
+admin,def clear(self):
+admin,"""""""Очистка экрана."""""""
+admin,"os.system(""cls"" if os.name == ""nt"" else ""clear"")"
+admin,clear
+admin,cd ..
+admin,exit
+admin,ls
+admin,lsa
+admin,lsdadfa
+admin,lsdaasd
+admin,ladalsfa
+admin,sdlakfowq
+admin,cd ./.
+admin,cd //
+admin,cd ././
+admin,cd ./././\
+admin,cd ]//
+admin,cd //
+admin,cd \\
+admin,cd \.\
+admin,exit
+admin,lsadasd\
+admin,laldasldasd
+admin,lsladlsaldsad
+admin,cd \\
+admin,cd \
+admin,cd \\\
+admin,cd \.
+admin,cd \..
+admin,cd ..\
+admin,cd asdald
+admin,salalasd
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,ls
+admin,lssadasdsad
+admin,lsadsada
+admin,cd ..
+admin,cd ..
+admin,cd ..
+admin,cd ..
+admin,..
+admin,cd ..
+admin,..
+admin,exit
+admin,cd ..
+admin,cd dir1
+admin,cd ..
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,ls
+admin,cd ..
+admin,cd ...
+admin,cd ...
+admin,cd .
+admin,cd dir1
+admin,cd .
+admin,exit
+admin,cd ...
+admin,cd ..
+admin,cd dir1
+admin,cd ...
+admin,cd ....
+admin,cd ......
+admin,cd afaosfksakda
+admin,cd // casdsa
+admin,cd ../.
+admin,cd ///.
+admin,cd //..
+admin,cd ..//
+admin,cd ../
+admin,ls
+admin,exit
+admin,cd ../
+admin,cd dir1
+admin,cd ../
+admin,cd ../.
+admin,cd ...///
+admin,cd ././
+admin,cd ././...
+admin,ls dasd
+admin,lsds dad
+admin,ls dsad
+admin,ls sdsadad
+admin,exit
+admin,cd dir1
+admin,ls dsaasda
+admin,ls asdasdsad
+admin,ls ss
+admin,exit
+admin,ls ss
+admin,ls
+admin,cd d;as;das
+admin,cd ././
+admin,cd./+
+admin,cd ././.
+admin,cd ///
+admin,cd/ ../
+admin,cd ./././
+admin,cd
+admin,cd
+admin,
+admin,
+admin,
+admin,"cd ,a;d"
+admin,cadaslda
+admin,cdd;dsa
+admin,cd ;dlsaldsa
+admin,cd fdasd
+admin,cd dsadsadas
+admin,ls as
+admin,ls
+admin,cd dir1
+admin,ls
+admin,cat file1.txt
+admin,cd ..
+admin,cd..
+admin,cd ..
+admin,cd ....
+admin,cd ..sad.asd
+admin,cd dadad
+admin,cd dadsadasdasd
+admin,cd dadsad
+admin,cd f;dlf
+admin,"cd ./,./."
+admin,cd ./..
+admin,clear
+admin,exit
+admin,catarsadasd
+admin,cat afa
+admin,cd dir1
+admin,cat sadsda
+admin,cat sadsa
+admin,catasdsad
+admin,cat asda
+admin,ca ./
+admin,cd ../
+admin,cd //
+admin,cd \\
+admin,cd \
+admin,cd ./ad
+admin,c/a.dsa
+admin,cad.ad/
+admin,vca.a;sdsa[f'asd
+admin,ac;af[asldsa]d
+admin,\sad;sad'saf
+admin,sa
+admin,clear
+admin,exit
+admin,lsadasd
+admin,lsaa
+admin,adaldlsad
+admin,sadlasldsa
+admin,lsss
+admin,lss
+admin,lsaa
+admin,lsds
+admin,lsdsd
+admin,exit
+admin,clear
+admin,exit
+admin,lsa
+admin,ls
+admin,cd
+admin,cd //
+admin,cd ..
+admin,cda
+admin,su
+admin,cd
+admin,ls
+admin,exit
+admin,cat
+admin,clear
+admin,su
+admin,clear
+admin,cat
+admin,cat dir1
+admin,cd dir1
+admin,exit
+admin,ls
+admin,ls dir1
+admin,dir /b
+admin,dir /cd
+admin,pwd
+admin,cd dir1
+admin,pwd
+admin,exit
+admin,cd dir1
+admin,tail
+admin,exit
+admin,tail dir1
+admin,tail text1
+admin,cd dir1
+admin,tail file1
+admin,tail file 1
+admin,exit
+admin,tail file 1
+admin,tail file1.txt
+admin,cd dir1
+admin,tail file1.txt
+admin,exit
+admin,cd dir1
+admin,tail file1.txt
+admin,ls
+admin,cd dir1
+admin,pwd
+admin,tail file1
+admin,file1.txt
+admin,tail file1.txt
+admin,exit
+admin,tail file1.txt
+admin,cd dir2
+admin,tail2.txt
+admin,tail file2.txt
+admin,exit
+admin,cd dir3
+admin,tail file3.txt

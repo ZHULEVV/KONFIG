@@ -1,0 +1,3 @@
+Hello, World!
+This is file1.txt inside dir1.
+You can write anything here.

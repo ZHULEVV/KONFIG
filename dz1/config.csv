@@ -1,0 +1,5 @@
+<config>
+    <virtual_filesystem_path>virtual_files.zip</virtual_filesystem_path>
+    <start_script_path>start_script.sh</start_script_path>
+</config>
+ 
